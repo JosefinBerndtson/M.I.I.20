@@ -1,5 +1,6 @@
 
-![alt text]otherfolder/we open data.png
+![alt text](otherfolder/we open data.png)
+
 
 
 ## Data without Borders
@@ -35,5 +36,5 @@ MyData is focused on consents because:
 - the same consent management framework can also be used with minor modification for notifications and assignments    
 - human and machine readable standardized consents unite technical data management systems, legislative frameworks, and the human perspective
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYzNzE4MTM5XX0=
+eyJoaXN0b3J5IjpbMTYyMDIxMTAwNF19
 -->
