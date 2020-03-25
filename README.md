@@ -30,13 +30,9 @@ MyData is:
     -   Consent-based data management and control – it is not necessary for the individual to store all his/her data in centralized repositories in order to control the data flow
     
 MyData is focused on consents because:
-
 - consents are the primary (but not the only) legislative framework that defines information processing from the human-centric perspective
-    
-- the same consent management framework can also be used with minor modification for notifications and assignments
-    
+- the same consent management framework can also be used with minor modification for notifications and assignments    
 - human and machine readable standardized consents unite technical data management systems, legislative frameworks, and the human perspective
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMDg5NzI5MCwtNzkyMDk4MTc4XX0=
+eyJoaXN0b3J5IjpbOTM2NTc2MTAyLC03OTIwOTgxNzhdfQ==
 -->
